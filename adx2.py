@@ -28,7 +28,7 @@ logging.basicConfig(
 AUTO_REPLY_MESSAGE = """
 Welcome to MRX SHOPS 🥀
  
-Contact @MR_XSHOP ⭐️
+Contact @MR_XSHOP ⭐
 
 Message 👉@MR_XSHOP⭐️ 
 
